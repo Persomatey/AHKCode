@@ -16,5 +16,3 @@
 ### Included Files 
 - Screenshot.ahk 
   - This is a file that makes the ` key a screenshot key 
-
---- 
